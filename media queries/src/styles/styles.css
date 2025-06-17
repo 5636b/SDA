@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    display: flex;
+    height: 90vh;
+    width: 90%;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+}
+
