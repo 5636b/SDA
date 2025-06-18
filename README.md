@@ -19,6 +19,6 @@
 
 ## 📞 Meus contatos!
 
-- <a href="www.linkedin.com/in/zaqueu-batista-028304329"><img width="30px" src="./img/svg/linkedin_black_logo_icon_147114.svg"/> **Minha página do linkedin**</a>
+- <a href="https://www.linkedin.com/in/zaqueu-batista-028304329"><img width="30px" src="./img/svg/linkedin_black_logo_icon_147114.svg"/> **Minha página do linkedin**</a>
 
 - <img width="30px" src="./img/svg/gmail_new_logo_icon_159149.svg"> **Meu email para contato: zaqueubatista96@gmail.com**
